@@ -1,0 +1,10 @@
+{
+  "name": "sds4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Me",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
